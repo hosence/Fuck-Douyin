@@ -1,6 +1,17 @@
-# Fuck-Douyin
-If you are a boss, your employees are watching the "Douyin APP”.Then you must need this.
-<br>
-If your child is playing with a video at midnight, you need this even more!
-<br>
-Let's kill Douyin together!
+<h2>它的作用</h2>
+  屏蔽这些你<b>不想看的、不需要的</b>APP或网站，防止它们脏了你的眼睛。
+  <br>
+<h2>你为什么需要它？</h2>
+  如果你是一名老板，你的员工在工作时间，刷抖音、快手、bilibili。甚至玩王者荣耀、和平精英……
+  <br>
+  或者当你的孩子在半夜不睡觉刷手机的时候……
+  <br>
+  你是不是想大喊一声“<b>我CNM！</b>”？
+  <br>
+  有了它可以轻松为您解决这些问题！
+  <br>
+  <br>
+  _______________________________________________________________________________
+  <br>
+  <br>
+  <b>让我们一起干掉他们吧！</b>
